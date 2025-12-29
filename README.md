@@ -54,7 +54,7 @@ StockDatatoTable generates and compares financial metrics across multiple stocks
 - Ensure no other process is using "stock_data.xlsx" when exporting
 
 ## Authors 
-Dev Shroff & Krishnika Anandan
+Dev Shroff
 
 
 
